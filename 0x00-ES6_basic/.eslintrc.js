@@ -10,7 +10,7 @@ module.exports = {
 		'plugin:jest/all',
 	],
 	globals: {
-		Atomics: 'reasdonly',
+		Atomics: 'readonly',
 		SharedArrayBuffer: 'readonly',
 	},
 	parserOptions: {
